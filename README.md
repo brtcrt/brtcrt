@@ -1,5 +1,5 @@
-### Hello random internet person
-# Welcome to my GitHub page
+# Hello random internet person
+### Welcome to my GitHub page
 
 - I'm Bartu
 - Studying CS at Bilkent
