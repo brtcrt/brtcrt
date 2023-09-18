@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hello random internet person
+# Welcome to my GitHub page
 
+- I'm Bartu
+- Studying CS at Bilkent
+- Working on web dev stuff
+- Learning ML, AI, and other less interesting web dev stuff
+
+  
 <!--
-**brtcrt/brtcrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+These are fucking stupid
 
 Here are some ideas to get you started:
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
